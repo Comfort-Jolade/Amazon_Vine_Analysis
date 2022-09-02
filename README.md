@@ -4,7 +4,7 @@
 The purpose of this review is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products.
 
 ## Results: 
-Below are the DataFrames that were transformed from our dataset from Amazon Review datasets:
+Below are the DataFrames that were transformed from Amazon Review datasets:
 
 ![image](https://user-images.githubusercontent.com/104603037/188052018-f6c337c7-ab00-4f48-b1ec-716c34ffb803.png)
 
