@@ -53,7 +53,7 @@ There were 33 Vine reviews and  and 45388 non-Vine reviews
 
 ## Summary:
 
-- From the above analysis we can deduce that there is bias for reviews in the Vine program considering the fact that the paid review is very low when compared with unpaid Vine reviews for overall reviews and 5 rating reviews. 
+- From the above analysis we can deduce that there is no bias for reviews in the Vine program considering the fact that the unpaid review is very high when compared with paid Vine reviews for overall reviews and 5 rating reviews. 
 
 Additional analysis:
 - We can perform average rating within a period of time using column review_date to know the trend when we have the five rating mostly.
